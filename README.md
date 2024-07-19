@@ -1,5 +1,5 @@
 # 🦈 JobAT(잡앗) 🦈 [[Demo Video]](https://youtu.be/_OWhFOPmMwI)
-## ✅ Project Information
+# ✅ Project Information
 
 <img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png" style="width: 70%;">
 
