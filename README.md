@@ -29,17 +29,3 @@
 ## 📺 Demo Video
 
 [유튜브 시연 영상](https://youtu.be/_OWhFOPmMwI)
-
-## 🤼 Members
-
-- [윤종석(13기)](https://github.com/JJadeYoon)
-
-- [석지현(13기)](https://github.com/Seok-JH)
-
-- [정수인(13기)](https://github.com/SooinJung)
-
-- [정은지(12기)](https://github.com/bbobburi)
-
-- [이다희(12기)](https://github.com/daheeleestudy)
-
-- [조승우(13기)](https://github.com/hang-o)
