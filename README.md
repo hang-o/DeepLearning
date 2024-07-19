@@ -1,7 +1,7 @@
 # 🦈 JobAT(잡앗) 🦈
 | 윤종석 | 이다희 | 석지현 | 정은지 | 정수인 | 조승우 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[![git1.png](MD_images%2Fgit1.png)](https://github.com/JJadeYoon)|[![git2.png](MD_images%2Fgit2.png)](https://github.com/daheeleestudy)|[![git3.png](MD_images%2Fgit3.png)](https://github.com/Seok-JH)|[![git4.png](MD_images%2Fgit4.png)](https://github.com/bbobburi)|[![git5.png](MD_images%2Fgit5.png)](https://github.com/SooinJung)|[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/hang-o)|
+|[![git1.png](MD_images%2Fgit1.png)](https://github.com/JJadeYoon)|[![git2.png](MD_images%2Fgit2.png)](https://github.com/daheeleestudy)|[![git3.png](MD_images%2Fgit3.png)](https://github.com/Seok-JH)|[![git4.png](MD_images%2Fgit4.png)](https://github.com/bbobburi)|[![git5.png](MD_images%2Fgit5.png)](https://github.com/SooinJung)|[![GitHub Logo](https://image.flaticon.com/icons/png/512/25/25231.png)](https://github.com/hang-o)|
 
 [![git6.png](MD_images%2Fgit6.png)](https://github.com/hang-o)|
 
