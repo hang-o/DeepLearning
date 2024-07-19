@@ -49,5 +49,5 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
   </div>
   
-<img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/techstack.png" style="width: 70%;">
+<img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/techstack.png" style="width: 50%;">
 
