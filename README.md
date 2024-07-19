@@ -1,4 +1,4 @@
-# 🦈 JobAT(잡앗) 🦈
+# 🦈 JobAT(잡앗) 🦈 [📺 Demo Video](https://youtu.be/_OWhFOPmMwI)
 
 ## ✅ Project Information
 
@@ -47,6 +47,5 @@
 
 ![techstack.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/techstack.png)
 
-## 📺 Demo Video
 
-[유튜브 시연 영상](https://youtu.be/_OWhFOPmMwI)
+
