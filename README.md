@@ -44,7 +44,7 @@
 
 ### *LangChain*
 
-<img src="https://github.com/hang-o/DeepLearning/tree/main/MD_images/jobat_langchain.png" style="width: 50%;">
+<img src="https://github.com/hang-o/DeepLearning/blob/main/MD_images/jobat_langchain.png" style="width: 50%;">
 
 - LLM을 이용한 어플리케이션 구축하기 위해 필요한 기능은 다음과 같습니다.
   - 대화의 이전 메세지를 저장
