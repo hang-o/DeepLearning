@@ -47,7 +47,7 @@
 
 <img src="https://github.com/hang-o/temp_store/blob/main/jobat_interview.png" style="width: 70%;">
 
-- Langchain Historical Chain + Prompt 엔지니어링을 이용하여 생성된 질문에 대한 꼬리물기 면접 진행
+- Langchain Historical Chain + Prompt 엔지니어링을 이용하여 생성된 질문에 대한 꼬리물기 면접 서비스 구현
 
 
 
