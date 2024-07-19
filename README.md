@@ -9,12 +9,10 @@
 - 그럴 때마다 저는 제가 예상치 못한 질문들을 실제 면접의 형태로 제공해주는 서비스가 있었으면 좋겠다고 생각 했습니다.
 - 이런 생각으로 실제 자기소개서와 취업 공고를 바탕으로 맞춤 면접 서비스를 제공하는 이번 잡앗을 기획하게 되었습니다.
 
-## 💟 Team Members
-| 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|ദ്ദി¯•ω•¯ )|(◞˃ᆺ˂)◞|( ﾌ 'θ ')ﾌ|Σ(‘O⌓O’)|≽^-⩊-^≼|n_o|
-|<a href = "https://github.com/JJadeYoon"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/daheeleestudy"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/Seok-JH"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/bbobburi"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/SooinJung"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/hang-o"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 
+
+
+## 💟 Team Members
 #### 사용 기술 스택
 <div>
   <img src="https://img.shields.io/badge/langchain-81C147?style=for-the-badge&logo=langchain&logoColor=white">
@@ -26,6 +24,10 @@
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
 </div>
+| 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|ദ്ദി¯•ω•¯ )|(◞˃ᆺ˂)◞|( ﾌ 'θ ')ﾌ|Σ(‘O⌓O’)|≽^-⩊-^≼|n_o|
+|<a href = "https://github.com/JJadeYoon"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/daheeleestudy"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/Seok-JH"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/bbobburi"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/SooinJung"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/hang-o"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 
 
 
