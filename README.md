@@ -4,7 +4,7 @@
 
 
 
-## ✅ Project Information
+## ✅ Project Information - TAVE 13기 후반기 프로젝트
 
 <img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png" style="width: 70%;">
 
