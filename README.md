@@ -2,7 +2,7 @@
 
 ## ✅ Project Information
 
-![intro.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/flow.png)
+![intro.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png)
 
 - 사용자의 이력서 및 채용공고 기반 면접 질문 생성 프로그램
 - 사용자의 답변에 대한 피드백 및 꼬리물기 면접 서비스 제공
@@ -43,9 +43,9 @@
 
 3. 자기소개서와 채용공고의 유사도를 계산하여 면접 예상 질문 생성
 
-![flow.png](MD_images%2Fflow.png)
+![flow.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/flow.png)
 
-![techstack.png](MD_images%2Ftechstack.png)
+![techstack.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/techstack.png)
 
 ## 📺 Demo Video
 
