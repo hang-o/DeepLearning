@@ -1,5 +1,5 @@
 # 🦈 JobAT(잡앗) 🦈
-|윤종석|이다희|석지현|정은지|정수인|조승우|
+| 윤종석 | 이다희 | 석지현 | 정은지 | 정수인 | 조승우 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |![git1.png](github_image%2Fgit1.png)|![git2.png](github_image%2Fgit2.png)|![git3.png](github_image%2Fgit3.png)|![git4.png](github_image%2Fgit4.png)|![git5.png](github_image%2Fgit5.png)|![git6.png](github_image%2Fgit6.png)|
 
