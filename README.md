@@ -1,5 +1,7 @@
 # 🦈 JobAT(잡앗) 🦈
-| 윤종석 | 이다희 | 석지현 | 정은지 | 정수인 | 조승우 |
+
+## 🤼 Members
+| 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |ദ്ദി¯•ω•¯ )|(◞˃ᆺ˂)◞|( ﾌ 'θ ')ﾌ|Σ(‘◉⌓◉’)|≽^-⩊-^≼|ㅇㅅㅇ|
 |<a href = "https://github.com/JJadeYoon"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/daheeleestudy"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/Seok-JH"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/bbobburi"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/SooinJung"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/hang-o"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
