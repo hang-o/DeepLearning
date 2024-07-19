@@ -1,10 +1,11 @@
+#
 ## 🦈 JobAT(잡앗) 🦈 [[Demo Video]](https://youtu.be/_OWhFOPmMwI)  [[시연 링크]](URL 넣는 곳)
 
 
 
 
 
-### ✅ Project Information - [TAVE 13기 후반기 프로젝트](https://blog.naver.com/t-ave)
+## ✅ Project Information - [TAVE 13기 후반기 프로젝트](https://blog.naver.com/t-ave)
 
 <img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png" style="width: 70%;">
 
@@ -16,7 +17,7 @@
 
 
 
-### 💬 BackGround
+## 💬 BackGround
 
 <img src="https://github.com/hang-o/temp_store/blob/main/jobat_communication.png" style="width: 40%;">
 
@@ -34,7 +35,7 @@
   - 외부 API 와의 연결
 
 
-### 🛠️ Service Architecture
+## 🛠️ Service Architecture
 
 1. 사용자의 자기소개서를 임베딩
 
@@ -48,7 +49,7 @@
 
 
 
-### 💟 Team Members
+## 💟 Team Members
 | 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |ദ്ദി¯•ω•¯ )|(◞˃ᆺ˂)◞|( ﾌ 'θ ')ﾌ|Σ(‘◉⌓◉’)|≽^-⩊-^≼|n_o|
