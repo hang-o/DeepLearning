@@ -1,13 +1,3 @@
-# 🦈 JobAT(잡앗) 🦈
-
-## ✅ Project Information
-
-![intro.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/flow.png)
-
-- 사용자의 이력서 및 채용공고 기반 면접 질문 생성 프로그램
-- 사용자의 답변에 대한 피드백 및 꼬리물기 면접 서비스 제공
-- 효과적인 기업면접 대비 서비스
-
 ## 💟 Team Members
 | 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,6 +15,18 @@
     <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
   </div>
+
+# 🦈 JobAT(잡앗) 🦈
+
+## ✅ Project Information
+
+![intro.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/flow.png)
+
+- 사용자의 이력서 및 채용공고 기반 면접 질문 생성 프로그램
+- 사용자의 답변에 대한 피드백 및 꼬리물기 면접 서비스 제공
+- 효과적인 기업면접 대비 서비스
+
+
 
 
 ## 💬 BackGround
