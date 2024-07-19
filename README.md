@@ -1,9 +1,7 @@
 # 🦈 JobAT(잡앗) 🦈 [[Demo Video]](https://youtu.be/_OWhFOPmMwI)
 ## ✅ Project Information
 
-![intro.png](https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png)
-
-<img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png" style="width: 50%;">
+<img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/intro.png" style="width: 70%;">
 
 - 사용자의 이력서 및 채용공고 기반 면접 질문 생성 프로그램
 - 사용자의 답변에 대한 피드백 및 꼬리물기 면접 서비스 제공
