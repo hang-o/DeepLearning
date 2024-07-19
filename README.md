@@ -45,9 +45,9 @@
 3. 자기소개서와 채용공고의 유사도를 계산하여 면접 예상 질문 생성
 
 
-<img src="https://github.com/hang-o/temp_store/blob/main/jobat_interview.png" style="width: 50%;">
+<img src="https://github.com/hang-o/temp_store/blob/main/jobat_interview.png" style="width: 70%;">
 
-
+1. Langchain Historical Chain + Prompt 엔지니어링을 이용하여 생성된 질문에 대한 꼬리물기 면접 진행
 
 
 
