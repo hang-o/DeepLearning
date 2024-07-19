@@ -18,7 +18,7 @@
 
 ## 💬 BackGround
 
-<img src="https://github.com/hang-o/temp_store/blob/main/jobat_communication.png" style="width: 70%;">
+<img src="https://github.com/hang-o/temp_store/blob/main/jobat_communication.png" style="width: 40%;">
 
 - 실제 면접에서는 항상 예상치 못한 질문이 들어오기 마련입니다.
 - 그럴 때마다 저는 제가 예상치 못한 질문들을 실제 면접의 형태로 제공해주는 서비스가 있었으면 좋겠다고 생각 했습니다.
