@@ -1,9 +1,9 @@
 # 🦈 JobAT(잡앗) 🦈
 | 윤종석 | 이다희 | 석지현 | 정은지 | 정수인 | 조승우 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[![git1.png](MD_images%2Fgit1.png)](https://github.com/JJadeYoon)|[![git2.png](MD_images%2Fgit2.png)](https://github.com/daheeleestudy)|[![git3.png](MD_images%2Fgit3.png)](https://github.com/Seok-JH)|[![git4.png](MD_images%2Fgit4.png)](https://github.com/bbobburi)|[![git5.png](MD_images%2Fgit5.png)](https://github.com/SooinJung)|<img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=black"/>(https://github.com/hang-o)|
+|[![git1.png](MD_images%2Fgit1.png)](https://github.com/JJadeYoon)|[![git2.png](MD_images%2Fgit2.png)](https://github.com/daheeleestudy)|[![git3.png](MD_images%2Fgit3.png)](https://github.com/Seok-JH)|[![git4.png](MD_images%2Fgit4.png)](https://github.com/bbobburi)|[![git5.png](MD_images%2Fgit5.png)](https://github.com/SooinJung)|(https://github.com/hang-o)|
 
-[![git6.png](MD_images%2Fgit6.png)](https://github.com/hang-o)|
+<a href = "https://github.com/hang-o"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 ## ✅ Project Information
 
