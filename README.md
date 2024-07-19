@@ -36,7 +36,7 @@
 
 ### 주제 선정 이유
 
-<img src="https://github.com/hang-o/temp_store/blob/main/jobat_communication.png" style="width: 40%;">
+<img src="https://github.com/hang-o/DeepLearning/tree/main/MD_images/jobat_communication.png" style="width: 40%;">
 
 - 실제 면접에서는 항상 예상치 못한 질문이 들어오기 마련입니다.
 - 그럴 때마다 저는 제가 예상치 못한 질문들을 실제 면접의 형태로 제공해주는 서비스가 있었으면 좋겠다고 생각 했습니다.
@@ -44,7 +44,7 @@
 
 ### *LangChain*
 
-<img src="https://github.com/hang-o/temp_store/blob/main/jobat_langchain.png" style="width: 50%;">
+<img src="https://github.com/hang-o/DeepLearning/tree/main/MD_images/jobat_langchain.png" style="width: 50%;">
 
 - LLM을 이용한 어플리케이션 구축하기 위해 필요한 기능은 다음과 같습니다.
   - 대화의 이전 메세지를 저장
@@ -65,7 +65,7 @@
 - 자기소개서와 채용공고의 유사도를 계산하여 면접 예상 질문 생성
 
 
-<img src="https://github.com/hang-o/temp_store/blob/main/jobat_interview.png" style="width: 70%;">
+<img src="https://github.com/hang-o/DeepLearning/tree/main/MD_images/jobat_interview.png" style="width: 70%;">
 
 - Langchain Historical Chain + Prompt 엔지니어링을 이용하여 생성된 질문에 대한 꼬리물기 면접 서비스 구현
 
