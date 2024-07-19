@@ -2,7 +2,7 @@
 
 ## ✅ Project Information
 
-![intro.png](MD_images%2Fintro.png)
+![intro.png](https://github.com/Job-AT/jobat-final/tree/main/MD_images)
 
 - 사용자의 이력서 및 채용공고 기반 면접 질문 생성 프로그램
 - 사용자의 답변에 대한 피드백 및 꼬리물기 면접 서비스 제공
