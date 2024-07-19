@@ -17,7 +17,7 @@
 
 
 
-### 🛠️ Service Architecture
+## 🛠️ Service Architecture
 
 1. 사용자의 자기소개서를 임베딩
 
