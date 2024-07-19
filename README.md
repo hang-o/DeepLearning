@@ -22,7 +22,9 @@
 - 이런 생각으로 실제 자기소개서와 취업 공고를 바탕으로 맞춤 면접 서비스를 제공하는 이번 잡앗을 기획하게 되었습니다.
 
 <img src="https://github.com/hang-o/temp_store/blob/main/jobat_langchain.png" style="width: 70%;">
+
 - 랭체인을 이용하여 어플리케이션 구축
+
 - LLM을 이용한 어플리케이션 구축하기 위해 필요한 기능
   - 대화의 이전 메세지를 저장
   - Knowledge base로부터 context 전달
