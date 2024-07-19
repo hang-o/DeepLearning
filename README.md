@@ -1,4 +1,4 @@
-# 🦈 JobAT(잡앗) 🦈 [📺 Demo Video](https://youtu.be/_OWhFOPmMwI)
+# 🦈 JobAT(잡앗) 🦈 [📺](https://youtu.be/_OWhFOPmMwI)
 
 ## ✅ Project Information
 
