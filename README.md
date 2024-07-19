@@ -1,7 +1,7 @@
 # 🦈 JobAT(잡앗) 🦈
 | 윤종석 | 이다희 | 석지현 | 정은지 | 정수인 | 조승우 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[![git1.png](github_image%2Fgit1.png)](https://github.com/JJadeYoon)|![git2.png](github_image%2Fgit2.png)|![git3.png](github_image%2Fgit3.png)|![git4.png](github_image%2Fgit4.png)|![git5.png](github_image%2Fgit5.png)|![git6.png](github_image%2Fgit6.png)|
+|[![git1.png](github_image%2Fgit1.png)](https://github.com/JJadeYoon)|[![git2.png](github_image%2Fgit2.png)](https://github.com/daheeleestudy)|[![git3.png](github_image%2Fgit3.png)](https://github.com/Seok-JH)|[![git4.png](github_image%2Fgit4.png)](https://github.com/bbobburi)|[![git5.png](github_image%2Fgit5.png)](https://github.com/SooinJung)|[![git6.png](github_image%2Fgit6.png)](https://github.com/hang-o)|
 
 ## ✅ Project Information
 
