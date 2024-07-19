@@ -42,7 +42,7 @@
 - 그럴 때마다 저는 제가 예상치 못한 질문들을 실제 면접의 형태로 제공해주는 서비스가 있었으면 좋겠다고 생각 했습니다.
 - 이런 생각으로 실제 자기소개서와 취업 공고를 바탕으로 맞춤 면접 서비스를 제공하는 이번 잡앗을 기획하게 되었습니다.
 
-### LangChain
+### *LangChain*
 
 <img src="https://github.com/hang-o/temp_store/blob/main/jobat_langchain.png" style="width: 50%;">
 
