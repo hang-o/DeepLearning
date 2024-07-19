@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
 </div>
+
 | 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |ദ്ദി¯•ω•¯ )|(◞˃ᆺ˂)◞|( ﾌ 'θ ')ﾌ|Σ(‘O⌓O’)|≽^-⩊-^≼|n_o|
