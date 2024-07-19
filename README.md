@@ -1,7 +1,6 @@
 # 🦈 JobAT(잡앗) 🦈
-__이력서 및 채용공고 기반 면접 서비스__
 <div align="left">
-  <img src="https://github.com/hang-o/temp_store/blob/main/jobat_main.png" width="370.5" height="313.5">
+  <img src="https://github.com/hang-o/temp_store/blob/main/jobat_main.png" width="370.5" height="255.5">
 </div>
 
 
