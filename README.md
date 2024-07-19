@@ -38,16 +38,16 @@
 
 <img src="https://github.com/Job-AT/jobat-final/blob/main/MD_images/flow.png" style="width: 70%;">
 
-1. 사용자의 자기소개서를 임베딩
+- 사용자의 자기소개서를 임베딩
 
-2. 자동 채용공고 크롤링 및 요약
+- 자동 채용공고 크롤링 및 요약
 
-3. 자기소개서와 채용공고의 유사도를 계산하여 면접 예상 질문 생성
+- 자기소개서와 채용공고의 유사도를 계산하여 면접 예상 질문 생성
 
 
 <img src="https://github.com/hang-o/temp_store/blob/main/jobat_interview.png" style="width: 70%;">
 
-1. Langchain Historical Chain + Prompt 엔지니어링을 이용하여 생성된 질문에 대한 꼬리물기 면접 진행
+- Langchain Historical Chain + Prompt 엔지니어링을 이용하여 생성된 질문에 대한 꼬리물기 면접 진행
 
 
 
