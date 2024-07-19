@@ -1,17 +1,4 @@
 # 🦈 JobAT(잡앗) 🦈
-<div align="left">
-  <img src="https://github.com/hang-o/temp_store/blob/main/jobat_main.png" width="394.8" height="384">
-</div>
-
-
-## 💬 BackGround
-- 실제 면접에서는 항상 예상치 못한 질문이 들어오기 마련입니다.
-- 그럴 때마다 저는 제가 예상치 못한 질문들을 실제 면접의 형태로 제공해주는 서비스가 있었으면 좋겠다고 생각 했습니다.
-- 이런 생각으로 실제 자기소개서와 취업 공고를 바탕으로 맞춤 면접 서비스를 제공하는 이번 잡앗을 기획하게 되었습니다.
-
-
-
-
 ## 💟 Team Members
 | 윤종석(13기) | 이다희(12기) | 석지현(13기) | 정은지(12기) | 정수인(13기) | 조승우(13기) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -30,6 +17,11 @@
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
 </div>
 
+
+## 💬 BackGround
+- 실제 면접에서는 항상 예상치 못한 질문이 들어오기 마련입니다.
+- 그럴 때마다 저는 제가 예상치 못한 질문들을 실제 면접의 형태로 제공해주는 서비스가 있었으면 좋겠다고 생각 했습니다.
+- 이런 생각으로 실제 자기소개서와 취업 공고를 바탕으로 맞춤 면접 서비스를 제공하는 이번 잡앗을 기획하게 되었습니다.
 
 
 
