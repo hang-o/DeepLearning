@@ -1,5 +1,7 @@
 # 🦈 JobAT(잡앗) 🦈
 __이력서 및 채용공고 기반 면접 서비스__
+<img src="https://github.com/hang-o/temp_store/blob/main/jobat_main.png">
+
 
 ## 💬 BackGround
 - 실제 면접에서는 항상 예상치 못한 질문이 들어오기 마련입니다.
