@@ -1,8 +1,7 @@
 # 🦈 JobAT(잡앗) 🦈
 <div align="left">
-  <img src="https://github.com/hang-o/temp_store/blob/main/jobat_main.png" width="370.5" height="255.5">
+  <img src="https://github.com/hang-o/temp_store/blob/main/jobat_main.png" width="394.8" height="384">
 </div>
-
 
 
 ## 💬 BackGround
