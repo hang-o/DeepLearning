@@ -23,9 +23,12 @@
 
 <img src="https://github.com/hang-o/temp_store/blob/main/jobat_langchain.png" style="width: 70%;">
 
+- LLM을 이용한 어플리케이션 구축하기 위해 필요한 기능
+- - 대화의 이전 메세지를 저장
+- - Knowledge base로부터 context 전달
+- - 외부 API 와의 연결
+
 - 랭체인을 이용하여 어플리케이션 구축
-
-
 
 ## 🛠️ Service Architecture
 
